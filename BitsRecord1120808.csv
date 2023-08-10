@@ -1,7 +1,4 @@
-Well,Bit Size (in),I.A.D.C,Bit Time(H),Weight On Bit Min. (T),Weight On Bit Max. (T),"Progress In (m)
-","Progress Out (m)
-","Progress Footage (m)
-",Revolution Per Minute,Pump Liner (in),Pump Stroke (in),Pump A (SPM),Pump B (SPM),Pump Pressure (KSC),Torque Min.,Torque Max.,Dull Bit Grading (%)
+Well,Bit Size (in),I.A.D.C,Bit Time(H),Weight On Bit Min. (T),Weight On Bit Max. (T),Progress In (m),Progress Out (m),Progress Footage (m),Revolution Per Minute,Pump Liner (in),Pump Stroke (in),Pump A (SPM),Pump B (SPM),Pump Pressure (KSC),Torque Min.,Torque Max.,Dull Bit Grading (%)
 TC-14W,17.5,135,136.25,1,8,6,300,294,90,6,9,98,0,22,20,170,13
 TC-14W,12.25,137,71.5,1,5,300,469.5,169.5,90,6,9,70,70,58,40,150,50
 TC-14W,12.25,137,69.38,4,6,469.5,604,134.5,50,6,9,70,70,55,0,220,50
